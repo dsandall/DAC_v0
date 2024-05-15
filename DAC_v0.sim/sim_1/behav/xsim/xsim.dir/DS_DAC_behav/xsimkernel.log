@@ -1,0 +1,4 @@
+Running: xsim.dir/DS_DAC_behav/xsimk.exe -simmode gui -wdb DS_DAC_behav.wdb -simrunnum 0 -socket 62385
+Design successfully loaded
+Design Loading Memory Usage: 7804 KB (Peak: 7804 KB)
+Design Loading CPU Usage: 15 ms
